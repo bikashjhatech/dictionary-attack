@@ -21,3 +21,5 @@ This Python script implements a dictionary attack, a type of brute-force attack 
 * If a match is found, it prints the password that matches the hash.
 * If no match is found, it prints a message indicating that the password was not found in the list.
 
+![Screenshot](PasswordFound.jpg)
+
