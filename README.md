@@ -1,5 +1,5 @@
 **Dictionary Attack Implementation**
-This Python script implements a dictionary attack, a type of brute-force attack used to crack passwords by systematically checking each word in a predefined list of words (the "dictionary") against a hashed password.
+This Python script implements a dictionary attack, a type of brute-force attack used to crack passwords by systematically checking each word in a predefined list of words against a hashed password.
 
 
 **Requirements**
